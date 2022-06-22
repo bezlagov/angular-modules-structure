@@ -9,8 +9,3 @@ nav{
 nav a{
     color: #ffffff;
 }
-
-::ng-deep h2, h3{
-    border: 3px solid gray;
-    padding: 10px;
-}
